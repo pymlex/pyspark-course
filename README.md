@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains lecture notebooks on PySpark. The material covers the main concepts behind distributed data processing, together with practical examples of data manipulation, SQL, joins, windows, caching, partitioning, and optimisation. The material is organised as a learning path from core architecture to more advanced engineering patterns.
+These are lectures on PySpark. The material covers the main concepts behind distributed data processing, together with practical examples of data manipulation, SQL, joins, windows, caching, partitioning, and optimisation. The material is organised as a learning path from core architecture to more advanced engineering patterns.
 
 ## Content
 
@@ -40,4 +40,4 @@ Here we examine advanced concepts such as AQE, partition pruning, caching, Parqu
 
 ## Provenance 
 
-Most of the practice is based on videos by [Ansh Lamba](https://www.youtube.com/@AnshLambaJSR).
+Most of the practice is based on materials by [Ansh Lamba](https://www.youtube.com/@AnshLambaJSR).
